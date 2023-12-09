@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hanwei Liu
 - 👀 I’m interested in Affective computing, pattern recognition.
-- 🌱 I’m currently learning facial expression recognition.
+- 🌱 I’m currently learning facial expression recognition, expression transfer, and affective computing.
 - 📫 How to reach me liuhw1@tongji.edu.cn.
 
 <!---
