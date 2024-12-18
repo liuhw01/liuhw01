@@ -2,7 +2,7 @@
 - 👀 I’m interested in Affective computing, pattern recognition.
 - 🌱 I’m currently learning facial expression recognition, expression transfer, and affective computing.
 - 📫 How to reach me liuhw1@tongji.edu.cn.
-- ✨ Netease Fuxi  -> Happy Elements
+- ✨ Netease Fuxi AI Lab -> Happy Elements
 
 <!---
 liuhw01/liuhw01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
