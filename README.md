@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hanwei Liu
-- 👀 I’m interested in Affective computing, pattern recognition.
-- 🌱 I’m currently learning facial expression recognition, expression transfer, and affective computing.
+- 👀 I am interested in facial expression (generation, recognition) and virtual humans.
+- 🌱 I am currently learning facial expression transfer, talking face, and facial expression recognition.
 - 📫 How to reach me liuhw1@tongji.edu.cn.
 - ✨ Netease Fuxi AI Lab -> Happy Elements
 
