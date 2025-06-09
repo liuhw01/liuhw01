@@ -4,7 +4,7 @@
 - 🧪 Internship experience: NetEase Fuxi AI Lab → Happy Elements.
 - 🎓 Ph.D. from Tongji University.
 - 💼 Currently at Huawei (Top Minds).
-- 📫 Reach me at: liuhw1@tongji.edu.cn
+- 📫 Reach me at: liuhw01@gmail.com
 
 <!---
 liuhw01/liuhw01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
