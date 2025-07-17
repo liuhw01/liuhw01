@@ -1,6 +1,6 @@
 - 👋 Hi: Hanwei Liu
 - 👀 Interests: facial expression (generation, recognition) and virtual humans.
-- 🧪 Internship: NetEase Fuxi AI Lab → Happy Elements. Mentor: [Ding Yu](https://scholar.google.com/citations?user=T9Vd-rcAAAAJ&hl=en)
+- 🧪 Internship: NetEase Fuxi AI Lab → Happy Elements. (Mentor: [Ding Yu](https://scholar.google.com/citations?user=T9Vd-rcAAAAJ&hl=en))
 - 🎓 Education: Ph.D. from Tongji University.
 - 💼 Current position: Huawei (Top Minds).
 - 📫 Contact: liuhw01@gmail.com
