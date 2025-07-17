@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hanwei Liu
 - 👀 I am interested in facial expression (generation, recognition) and virtual humans.
-- 🧪 Internship experience: NetEase Fuxi AI Lab → Happy Elements.
+- 🧪 Internship experience: NetEase Fuxi AI Lab → Happy Elements. Mentor: [Ding Yu](https://scholar.google.com/citations?user=T9Vd-rcAAAAJ&hl=en)
 - 🎓 Ph.D. from Tongji University.
 - 💼 Currently at Huawei (Top Minds).
 - 📫 Reach me at: liuhw01@gmail.com
